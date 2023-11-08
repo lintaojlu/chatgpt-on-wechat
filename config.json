@@ -1,5 +1,6 @@
 {
-  "open_ai_api_key": "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",
+  "open_ai_api_key": "sk-hJs89lkQMzlzoOcADb6739A9091d41229c2c3c0547932fBe",
+  "open_ai_api_base": "https://api.qaqgpt.com/v1",
   "model": "gpt-3.5-turbo",
   "proxy": "",
   "single_chat_prefix": ["Eureka", "@Eureka"],
@@ -11,7 +12,7 @@
   "conversation_max_tokens": 1000,
   "speech_recognition": false,
   "group_speech_recognition": false,
-  "use_azure_chatgpt": false,
+  "use_azure_chatgpt": true,
   "azure_deployment_id": "",
   "azure_api_version": "",
   "character_desc": "你是Eureka, Lynn的仆人, 你旨在回答并解决主人的任何问题，并且可以使用多种语言与人交流。",
